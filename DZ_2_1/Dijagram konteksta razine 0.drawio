@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="ah4-4o1aJsZ9hj4hK-Dv">
+    <mxGraphModel dx="835" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Informatički&lt;br&gt;Sustav&lt;br&gt;&amp;nbsp;za dionice&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#7EA6E0);labelBorderColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="374" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-3" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Validirani podaci&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="530" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-6" value="&lt;font&gt;Administrator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-7" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Uređivanje podataka&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.964;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-6" target="g1hJZHoWsPPVvcOoxAAN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-8" value="&lt;font&gt;Vanjski izvori&lt;br&gt;(API, burze)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="530" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-9" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: rgb(0, 0, 0);&quot;&gt;Upiti prema API-ju&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-1" target="g1hJZHoWsPPVvcOoxAAN-8">
+          <mxGeometry x="0.0001" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="615" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-11" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Cijene, trendovi&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=-0.019;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-8" target="g1hJZHoWsPPVvcOoxAAN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="720" as="sourcePoint" />
+            <mxPoint x="520" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-12" value="&lt;font&gt;Investitor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-13" value="&lt;font&gt;Analitičar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="180" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-14" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: rgb(0, 0, 0);&quot;&gt;Upit za teh. analizu&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1.015;exitY=0.321;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.824;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=light-dark(#000000,#000000);exitPerimeter=0;" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-13" target="g1hJZHoWsPPVvcOoxAAN-1">
+          <mxGeometry x="0.0001" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="653" as="sourcePoint" />
+            <mxPoint x="377" y="760" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-15" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: rgb(0, 0, 0);&quot;&gt;Analatički rezultati&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.188;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=light-dark(#000000,#000000);entryX=0.714;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-1" target="g1hJZHoWsPPVvcOoxAAN-13">
+          <mxGeometry x="0.0001" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="653" as="sourcePoint" />
+            <mxPoint x="310" y="516" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-18" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;Zahtjev za analizom&lt;/span&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.631;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=light-dark(#000000,#000000);entryX=0.435;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-12" target="g1hJZHoWsPPVvcOoxAAN-1">
+          <mxGeometry x="0.0001" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="450" as="sourcePoint" />
+            <mxPoint x="203" y="605" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1hJZHoWsPPVvcOoxAAN-19" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: rgb(0, 0, 0);&quot;&gt;Preporuke, izvještaji&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.211;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=light-dark(#000000,#000000);entryX=0.634;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="g1hJZHoWsPPVvcOoxAAN-1" target="g1hJZHoWsPPVvcOoxAAN-12">
+          <mxGeometry x="0.0001" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="565" as="sourcePoint" />
+            <mxPoint x="300" y="720" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
