@@ -1,0 +1,60 @@
+Table Korisnik {
+  id int [pk, increment]
+  korisnicko_ime varchar
+  email varchar
+  lozinka varchar
+  tip_korisnika varchar // investitor, analitičar, administrator
+}
+
+Table Dionica {
+  id int [pk, increment]
+  naziv varchar
+  simbol varchar
+  sektor varchar
+  trenutna_cijena decimal
+}
+
+Table PovijestCijena {
+  id int [pk, increment]
+  dionica_id int [ref: > Dionica.id]
+  pocetna_cijena decimal
+  najvisa_cijena decimal
+  najniza_cijena decimal
+  zavrsna_cijena decimal
+  obujam_trgovanja bigint
+  interval varchar // npr. '1d', '1h'
+  vrijeme datetime
+  izvor_podatka varchar
+}
+
+Table Analiza {
+  id int [pk, increment]
+  korisnik_id int [ref: > Korisnik.id]
+  dionica_id int [ref: > Dionica.id]
+  vrsta varchar // tehnicka, temeljna
+  vrijeme datetime
+  rezultat text
+}
+
+Table Preporuka {
+  id int [pk, increment]
+  analiza_id int [ref: > Analiza.id]
+  tip varchar // kupi, prodaj, zadrzi
+  opis text
+}
+
+Table Izvjestaj {
+  id int [pk, increment]
+  korisnik_id int [ref: > Korisnik.id]
+  naziv varchar
+  sadrzaj text
+  datum date
+}
+
+Table Notifikacija {
+  id int [pk, increment]
+  korisnik_id int [ref: > Korisnik.id]
+  tip varchar
+  poruka text
+  vrijeme_slanja datetime
+}

@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Dijagram aktivnosti dionice" id="0">
+    <mxGraphModel dx="1722" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-197" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-199" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-200" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-201" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-202" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="540" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-203" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-205" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-206" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-207" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-209" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-210" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-211" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-216" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Korisnici&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-217" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Izvještaji&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="164" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-218" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Tržišni podaci&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-219" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Notifikacije&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-220" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Analiza&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-222" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Tehnička analiza&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="165" y="650" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-225" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Generiranje preporuka&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-226" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-222" target="pZTGikJg4ZnuL-FvzCkb-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="330" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-228" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-229" target="pZTGikJg4ZnuL-FvzCkb-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284.9999999999999" y="695" as="sourcePoint" />
+            <mxPoint x="330" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-229" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Temeljna analiza&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-231" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Praćenje događaja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="620" y="560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-232" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Slanje obavijesti&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="675" y="620" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-233" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-231" target="pZTGikJg4ZnuL-FvzCkb-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="430" as="sourcePoint" />
+            <mxPoint x="785" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-234" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-235" target="pZTGikJg4ZnuL-FvzCkb-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="739.9999999999999" y="605" as="sourcePoint" />
+            <mxPoint x="785" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-235" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Upravljanje obavijestima&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="560" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-236" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Korisnik&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="165" y="187.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-237" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Generiranje izvještaja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="164" y="370" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-238" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Izvoz i pregled izvještaja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="164" y="445" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-239" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" target="pZTGikJg4ZnuL-FvzCkb-238" source="pZTGikJg4ZnuL-FvzCkb-237">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164" y="430" as="sourcePoint" />
+            <mxPoint x="284" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-240" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Dohvat trenutnih cijena&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="640" y="185" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-241" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;&amp;lt;compnent&amp;gt;&amp;gt;&lt;br&gt;Izvoz i pregled izvještaja&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#121212);" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-242" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-240" target="pZTGikJg4ZnuL-FvzCkb-241">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="435" as="sourcePoint" />
+            <mxPoint x="760" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-243" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-203" target="pZTGikJg4ZnuL-FvzCkb-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-245" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;povijesni podaci&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-243">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="-47" y="74" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-246" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-197" target="pZTGikJg4ZnuL-FvzCkb-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-247" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;podaci za izvještaj&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-246">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="-51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-248" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-209" target="pZTGikJg4ZnuL-FvzCkb-217">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-249" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;dostava korisniku&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-248">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="46" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-250" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-209" target="pZTGikJg4ZnuL-FvzCkb-200">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-251" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;obavijest o promjeni&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-250">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="-45" y="-85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-255" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#000000);" vertex="1" parent="1">
+          <mxGeometry x="480" y="415" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-257" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-200" target="pZTGikJg4ZnuL-FvzCkb-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="670" as="sourcePoint" />
+            <mxPoint x="500" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-258" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;promjena trenda&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-257">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="-30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-259" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pZTGikJg4ZnuL-FvzCkb-203" target="pZTGikJg4ZnuL-FvzCkb-197">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="390" as="sourcePoint" />
+            <mxPoint x="670" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-260" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;cijene za prikaz&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZTGikJg4ZnuL-FvzCkb-259">
+          <mxGeometry x="-0.0441" y="2" relative="1" as="geometry">
+            <mxPoint x="-68" y="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZTGikJg4ZnuL-FvzCkb-261" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#000000);" vertex="1" parent="1">
+          <mxGeometry x="404" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
